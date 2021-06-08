@@ -1,6 +1,7 @@
 :root {
   font-size: 16px;
   font-family: 'Open Sans';
+  min-height: 50px;
   --text-primary: grey;
   --text-secondary: white;
   --bg-primary: yellow;

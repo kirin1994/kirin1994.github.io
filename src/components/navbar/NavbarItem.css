@@ -1,4 +1,9 @@
 .navbarItem {
-    
+    padding: 10px; 
+    color: white;
+}
+
+i {
+    color: green;
 }
 
